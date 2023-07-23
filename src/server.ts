@@ -1,17 +1,17 @@
-import mongoose from "mongoose";
-import app from "./app";
-import config from "./config/config";
+import mongoose from 'mongoose'
+import app from './app'
+import config from './config/config'
+import { logger, errorLogger } from './shared/Logger'
 
-(async function main(){
-    try{
-        await mongoose.connect(config.db_url as string);
-        console.log(`Database connected successfully.`);
+;(async function main() {
+  try {
+    await mongoose.connect(config.db_urls as string)
+    logger.info(`Database connected successfully.`)
 
-        app.listen(config.port, ()=>{
-            console.log(`Application listen on ${config.port} port.`);
-        });
-    }
-    catch(err){
-        console.log(`Database disconnected. `, err); 
-    }
+    app.listen(config.port, () => {
+      logger.info(`Application listen on ${config.port} port.`)
+    })
+  } catch (err) {
+    errorLogger.error(`Database disconnected. `, err)
+  }
 })()
