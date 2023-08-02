@@ -5,7 +5,7 @@ import { logger, errorLogger } from './shared/Logger'
 
 ;(async function main() {
   try {
-    await mongoose.connect(config.db_urls as string)
+    await mongoose.connect(config.db_url as string)
     logger.info(`Database connected successfully.`)
 
     app.listen(config.port, () => {
