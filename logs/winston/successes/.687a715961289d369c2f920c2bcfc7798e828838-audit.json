@@ -6,64 +6,99 @@
     "auditLog": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\.687a715961289d369c2f920c2bcfc7798e828838-audit.json",
     "files": [
         {
-            "date": 1690114532957,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-23-07-2023-05-successes.log",
-            "hash": "f3a493d003d0a523f4181cc468883d20e3b87ac74db4f8ec1b1f026b4652f786"
+            "date": 1690984378347,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-02-08-2023-06-successes.log",
+            "hash": "8e786e948e7f2547a79c3d4aa3cc97a6e5c64232d90105130498e20a813d279d"
         },
         {
-            "date": 1690133308958,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-23-07-2023-10-successes.log",
-            "hash": "3a49767b34d26b82993f8e5cf0159ecb4feb0ff0889c456e7d61250416ff7d4d"
+            "date": 1690993292493,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-02-08-2023-09-successes.log",
+            "hash": "3a3016d5ca23ada94c51445fae139075393b24bb3ffd5532797dc6fd0f580a60"
         },
         {
-            "date": 1690192496224,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-24-07-2023-02-successes.log",
-            "hash": "28795da0a5b1f41411c900be458bda5b6b1fc70262b4f602c7b6aa092256d210"
+            "date": 1691052873466,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-03-08-2023-01-successes.log",
+            "hash": "f870e130695a6c8cb95132130cc039d81f2eef967f83a56555be4ab0ae559172"
         },
         {
-            "date": 1690192811314,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-24-07-2023-03-successes.log",
-            "hash": "5ba419585dbd2db3f7b625c1b44780b6044b9edaa1e0b57f9272a0791a271dd6"
+            "date": 1691055326162,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-03-08-2023-02-successes.log",
+            "hash": "8732b1ad29636f29283170a4fdebb1114259e1ba80ae54b23308cbaa42e6ca39"
         },
         {
-            "date": 1690564052358,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-28-07-2023-10-successes.log",
-            "hash": "ee375579d569896ce29204dce8cd6f1547d105717d7d42e75356ec00f4f9a9db"
+            "date": 1691142759120,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-04-08-2023-02-successes.log",
+            "hash": "531f7bf17dfccc8a89a66a6b575fbab27b66a9f6eb4440d0a0657b698981c3ad"
         },
         {
-            "date": 1690599655289,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-28-07-2023-20-successes.log",
-            "hash": "7da4c558ad3d17e4f8db54de757ddb5733ac9854ea4c6afbe7d1fbf5a1df3fd7"
+            "date": 1691228595633,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-05-08-2023-02-successes.log",
+            "hash": "3c3ccf41f11b9b9d4ff6a70656fdb6ae601c6567770f19b37ca2e4ff986d3c92"
         },
         {
-            "date": 1690948138609,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-01-08-2023-20-successes.log",
-            "hash": "d8983a607924b8cbf8ab1343782a0bf9f540d508c4260441d76012b02f246ed6"
+            "date": 1691230767061,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-05-08-2023-03-successes.log",
+            "hash": "6f0b037fefc20f471aaa3e3dbdd1241893009482437800d91ae00e04b628de67"
         },
         {
-            "date": 1690948827394,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-01-08-2023-21-successes.log",
-            "hash": "0bb46c597d25e42014465b5d7a9a8db05b43c6ddc15dd26c4c0d888fb5ef380e"
+            "date": 1691233205670,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-05-08-2023-04-successes.log",
+            "hash": "5db93a78cd38ee326620aa53871a250e8c99193203efe98e575b0b4c4ad4bc46"
         },
         {
-            "date": 1690955940504,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-01-08-2023-22-successes.log",
-            "hash": "f2392fe38749301a6b7d6e43f6fcff67d0041f2ec7b8e9e56c957ccdd9e5169d"
+            "date": 1691404348371,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-07-08-2023-03-successes.log",
+            "hash": "a19d125712291a227d37e90b1425b32dc093985d05a5dddc76cb07b0708f7c03"
         },
         {
-            "date": 1690956021559,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-01-08-2023-23-successes.log",
-            "hash": "da79496362cda4cccbda6b1a9da1cc2048df2088000ce02ade4335fb75a546ff"
+            "date": 1691517354447,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-08-08-2023-10-successes.log",
+            "hash": "b011abba4804063930e8cc8e0db8c0051f47756738801f9430c2ccc93fe66162"
         },
         {
-            "date": 1690963492013,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-02-08-2023-01-successes.log",
-            "hash": "a1a0638b34e52baceb3275593d8c7cc65a71693938b686f3624676a95e0a1852"
+            "date": 1691517764562,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-08-08-2023-11-successes.log",
+            "hash": "19d4260e53fbeafb8e05d5bbafb440aa02b63eae9472ee1a43b695582014a85d"
         },
         {
-            "date": 1690966845788,
-            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-02-08-2023-02-successes.log",
-            "hash": "295b3121b5dcb9b68f3bf1ceaa3167dd59c0650fc65e509d1a2d63781b655540"
+            "date": 1691522113756,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-08-08-2023-12-successes.log",
+            "hash": "fcc21cdf090bf49285611cb943e07a985120c41b6f1280e0288a4bd0e595a355"
+        },
+        {
+            "date": 1691525407647,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-08-08-2023-13-successes.log",
+            "hash": "131a9404b077551cfbda946de4b367395e1f78454c195cfb45180a26b3082130"
+        },
+        {
+            "date": 1691529381280,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-08-08-2023-14-successes.log",
+            "hash": "db176fb95fe52abbf5b608006ce903852f08ceab09979702b891e2853d8fdebe"
+        },
+        {
+            "date": 1691606738466,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-09-08-2023-11-successes.log",
+            "hash": "62f60ade918514452356a2a3e9786ab3fbe293e7cd8514fe13cb3abc1cb12ac3"
+        },
+        {
+            "date": 1691607622142,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-09-08-2023-12-successes.log",
+            "hash": "e2c92cf731336751492e8a73992335c0fe5f2f684c2ecf3cc9011067f587f1e9"
+        },
+        {
+            "date": 1691677486335,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-10-08-2023-07-successes.log",
+            "hash": "4847192d8d93af383fdfe96a81b8df885006037585d2fb6f035a595a4604cd70"
+        },
+        {
+            "date": 1691681548117,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-10-08-2023-08-successes.log",
+            "hash": "c2e581a73a8c1db97550f3e26155dcc3bdd8e9daaf329e3fc9b7e282b6533eca"
+        },
+        {
+            "date": 1691683213818,
+            "name": "F:\\Next level web dev module\\University management\\logs\\winston\\successes\\UM-10-08-2023-09-successes.log",
+            "hash": "fb7721ec5aa61baa61504dcbc5827997197217b9c42ebe9d9a54217f0291104a"
         }
     ],
     "hashType": "sha256"

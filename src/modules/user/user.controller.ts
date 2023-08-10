@@ -1,17 +1,16 @@
-import { RequestHandler } from 'express'
-import { addNewUserToDB } from './user.services'
+import { addNewUserToDB } from './user.services';
+import controllerHelper from '../../shared/controllerHelper';
+import { Request, Response } from 'express';
+import sendResponse from '../../shared/sendResponse';
 
-export const createNewUser: RequestHandler = async (req, res, next) => {
-  try {
-    const userInf = req.body
-    const result = await addNewUserToDB(userInf)
+export const createNewUser = controllerHelper(
+  async (req: Request, res: Response) => {
+    const userInf = req.body;
+    const result = await addNewUserToDB(userInf);
 
-    res.status(200).json({
-      succcess: true,
+    sendResponse(res, {
       message: 'User create successfully',
       data: result,
-    })
-  } catch (err) {
-    next(err)
-  }
-}
+    });
+  },
+);
