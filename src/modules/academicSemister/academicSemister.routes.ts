@@ -1,7 +1,10 @@
 import express from 'express';
 import zodRequestValidate from '../../middlewares/zodRequestValidation';
 import academicSemisterZodSchema from './academicSemister.zodSchema';
-import { createAcademicSemisterCTRL } from './academicSemister.controller';
+import {
+  createAcademicSemisterCTRL,
+  getAcademicSemesterCTRL,
+} from './academicSemister.controller';
 const router = express.Router();
 
 router.post(
@@ -9,6 +12,8 @@ router.post(
   zodRequestValidate(academicSemisterZodSchema),
   createAcademicSemisterCTRL,
 );
+
+router.get('/', getAcademicSemesterCTRL);
 
 const AcademicSemisterRouter = router;
 export default AcademicSemisterRouter;

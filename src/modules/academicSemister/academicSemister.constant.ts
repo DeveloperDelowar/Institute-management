@@ -32,3 +32,12 @@ export const semisterTitleAndCodeMapping = {
   Summer: '02',
   Fall: '03',
 };
+
+export const AcademicSemisterSearchableFileds = ['title', 'code', 'year'];
+
+export const AcademicSemisterSemisterSearchableFields = [
+  'searchTerm',
+  'title',
+  'code',
+  'year',
+];

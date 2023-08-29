@@ -3,15 +3,21 @@ import { StatusCodes } from 'http-status-codes';
 
 type ApiResponseType<T> = {
   success?: boolean;
-  message: string;
-  data?: T | null;
   statusCode?: number;
+  message: string;
+  data: T | null;
+  meta?: {
+    page: number;
+    limit: number;
+    total: number;
+  };
 };
 
 const sendResponse = <T>(res: Response, data: ApiResponseType<T>): void => {
   const resInfo = {
     message: data?.message,
     data: data?.data || null,
+    meta: data?.meta || null,
     success: data?.success || true,
     statusCode: data?.statusCode || StatusCodes.OK,
   };
